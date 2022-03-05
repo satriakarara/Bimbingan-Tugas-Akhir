@@ -1,0 +1,12 @@
+.sidebar{
+height: 100 vh;
+background-color: red;
+border-radius: 25px;
+border-color: black;
+display: inline-block;
+}
+
+.grid{
+display:grid;
+grid-template-columns: 10% 90%;
+}
